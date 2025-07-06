@@ -23,6 +23,9 @@ This repo includes:
    B Button: Hold or Double-click → 1 Star  
    A Button: Double-click → Play/Pause
 
+![Gamepad Button Map](./gamepad_map.png)
+
+
 2. **Export Playlist**  
    Export liked tracks with ratings using **New Playlist Manager** (`.m3u` format).
 

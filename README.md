@@ -2,16 +2,16 @@
 
 ## Description
 
-Toolkit for blind crate digging: rate tracks in **Poweramp** with a **gamepad** during walks and sync ratings to **Engine DJ**.  
+Toolkit for blind crate digging: rate tracks in [**Poweramp**](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en) with a **gamepad** during walks and sync ratings to **Engine DJ**.  
 This repo includes:
-- ✅ Key Mapper config file  
+- ✅ [Key Mapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper&hl=en) config file  
 - ✅ Python sync script  
 - ✅ Gamepad button map image with function labels
 
 ## How It Works
 
 1. **Rate Tracks On The Go**  
-   Use a small gamepad (e.g., 8BitDo Micro) + Key Mapper to send Poweramp commands. Example bindings:
+   Use a small gamepad (e.g., 8BitDo Micro) with [Key Mapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper&hl=en) to send [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en) commands. Example bindings:
 
    L Button: Hold → Seek Backward, Click → Rewind 10s  
    R Button: Hold → Seek Forward, Click → Forward 10s  
